@@ -7,5 +7,3 @@
 - 🎓 Applied Artificial Intelligence undergraduate at <b>Singapore Institute of Technology</b><br>
 - 🤖 Building <b>domain-specific AI systems</b> (RAG, agentic workflows)<br>
 - 💬 Interested in <b>LLMs, embeddings, retrieval systems, and AI deployment</br></br>
-
-![clarence's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clarenceagcc&theme=github-dark)
